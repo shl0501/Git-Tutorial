@@ -1,4 +1,4 @@
 def add(a,b):
     return a+ b
-def syb(a, b) :
+def sub(a, b) :
     return a-b
